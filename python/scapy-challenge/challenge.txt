@@ -1,0 +1,1 @@
+Create a script that sniffs packets using scapy and print a summary of each packet sniffed. For bonus points use different terminal colors when priting packet summary.
